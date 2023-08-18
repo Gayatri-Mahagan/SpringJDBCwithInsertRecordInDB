@@ -7,6 +7,12 @@ public class Project {
     private int duration;
     private String status;
 
+    /**
+     *
+     *
+     * @return duration
+     */
+
     public int getDuration() {
         return duration;
     }
